@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/tree_country.github.io/static/css/main.8112d6ff.css",
-    "main.js": "/tree_country.github.io/static/js/main.daca604a.js",
-    "index.html": "/tree_country.github.io/index.html",
-    "main.8112d6ff.css.map": "/tree_country.github.io/static/css/main.8112d6ff.css.map",
-    "main.daca604a.js.map": "/tree_country.github.io/static/js/main.daca604a.js.map"
+    "main.css": "/tree_country/static/css/main.8112d6ff.css",
+    "main.js": "/tree_country/static/js/main.daca604a.js",
+    "index.html": "/tree_country/index.html",
+    "main.8112d6ff.css.map": "/tree_country/static/css/main.8112d6ff.css.map",
+    "main.daca604a.js.map": "/tree_country/static/js/main.daca604a.js.map"
   },
   "entrypoints": [
     "static/css/main.8112d6ff.css",
